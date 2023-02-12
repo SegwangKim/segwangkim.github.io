@@ -1,1 +1,0 @@
-# segwangkim.github.com
