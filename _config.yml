@@ -2,4 +2,4 @@ title: Segwang Kim
 description: @Samsung MX Division
 markdown: kramdown
 show_downloads: false
-remote_theme: minima
+theme: minima
