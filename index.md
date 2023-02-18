@@ -20,7 +20,7 @@ Hyoungwook Nam, <strong>Segwang Kim</strong>, Kyomin Jung, [Number Sequence Pred
 
 ## Education
 PhD, Department of Electrical and Computer Engineering, Seoul National University
-<div style="text-align: right">Advisor: [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html), Mar 2016 - Fall 2022</div>
+<div style="text-align: right">Advisor: <a href="http://milab.snu.ac.kr/kjung/index.html">Kyomin Jung</a>, Mar 2016 - Fall 2022</div>
 BA, College of Liberal Studies (major: mathematics), Seoul National University
 <div style="text-align: right">Mar 2012 - Feb 2016</div>
 
