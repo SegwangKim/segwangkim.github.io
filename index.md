@@ -3,7 +3,7 @@ layout: default
 ---
 # Welcome to Segwang's Homepage!
 <center><img src="https://segwangkim.github.io/sgK_19.jpg" width="200" height="200"></center>
-I am an S/W engineer at Samsung MX Division (started in Sep 2022). My task is 6 DoF, also known as [SLAM (Simultaneously Localization and Mapping)](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping), for AR/VR devices. I have a Ph. D degree and the title of my dissertation is [**Improving Rule-based Out-of-distribution Generalization of Sequence Generation Models**](https://s-space.snu.ac.kr/bitstream/10371/187731/1/000000172085.pdf).  
+I am a S/W engineer at Samsung MX Division (started in Sep 2022). My task is 6 DoF, also known as [SLAM (Simultaneously Localization and Mapping)](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping), for AR/VR devices. I have a Ph. D degree and the title of my dissertation is [**Improving Rule-based Out-of-distribution Generalization of Sequence Generation Models**](https://s-space.snu.ac.kr/bitstream/10371/187731/1/000000172085.pdf).  
 You can contact me through e-mail (ksk5693@snu.ac.kr) or [LinkedIn](https://www.linkedin.com/in/segwang-kim-9620a2149/).  
 Here are my [CV](https://segwangkim.github.io/CV/CV_segwangkim.pdf) and [Github](https://github.com/SegwangKim).  
 
