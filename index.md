@@ -9,7 +9,7 @@ Here are my <a href="CV/CV_segwangkim.pdf" class="image fit">CV</a> and [Github]
 
 ## Publications
 ### Conference Proceedings
-Dongryeol Lee*, <strong>Segwang Kim</strong>*, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, Kyomin Jung, Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, Empirical Methods in Natural Language Processing (EMNLP) Findings - Dec 2023, Singapore
+Dongryeol Lee\*, <strong>Segwang Kim</strong>\*, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, Kyomin Jung, Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, Empirical Methods in Natural Language Processing (EMNLP) Findings - Dec 2023, Singapore
 
 Kangil Lee, <strong>Segwang Kim</strong>, Kyomin Jung, Weakly Supervised Semantic Parsing with Execution-based Spurious Program Filtering, Empirical Methods in Natural Language Processing (EMNLP) - Dec 2023, Singapore
 
