@@ -19,7 +19,7 @@ Hyoungwook Nam, <strong>Segwang Kim</strong>, Kyomin Jung, [Number Sequence Pred
 
 
 ### Journals
-Taegwan Kang, <strong>Segwang Kim</strong>, Hyeongu Yun, Hwanhee Lee, and Kyomin Jung, [Gated Relational Encoder-Decoder Model for Target-Oriented Opinion Word Extraction](https://ieeexplore.ieee.org/document/9982601), IEEE Access 2022.
+Taegwan Kang, <strong>Segwang Kim</strong>, Hyeongu Yun, Hwanhee Lee, and Kyomin Jung, [Gated Relational Encoder-Decoder Model for Target-Oriented Opinion Word Extraction](https://ieeexplore.ieee.org/document/9982601), IEEE Access 2022
 
 <strong>Segwang Kim</strong>, Joonyoung Kim, and Kyomin Jung, [Compositional Generalization via Parsing Tree Annotation](https://ieeexplore.ieee.org/document/9340248), IEEE ACCESS 2021 [[code](https://github.com/SegwangKim/annotation-of-targets-using-parsing-trees)]
 
