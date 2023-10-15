@@ -9,9 +9,9 @@ Here are my <a href="CV/CV_segwangkim.pdf" class="image fit">CV</a> and [Github]
 
 ## Publications
 ### Conference Proceedings
-Dongryeol Lee\*, <strong>Segwang Kim</strong>\*, Minwoo Lee, Hwanhee Lee, Joonsuk Park, Sang-Woo Lee, Kyomin Jung, Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, Empirical Methods in Natural Language Processing (EMNLP) Findings - Dec 2023, Singapore
+Dongryeol Lee\*, <strong>Segwang Kim</strong>\*, Minwoo Lee, Hwanhee Lee, Joonsuk Park, and Kyomin Jung, Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP) - Dec 2023, Singapore, Singapore.
 
-Kangil Lee, <strong>Segwang Kim</strong>, Kyomin Jung, Weakly Supervised Semantic Parsing with Execution-based Spurious Program Filtering, Empirical Methods in Natural Language Processing (EMNLP) - Dec 2023, Singapore
+Kangil Lee, <strong>Segwang Kim</strong>, Weakly Supervised Semantic Parsing with Execution-based Spurious Program Filtering, The 2023 Conference on Empirical Methods in Natural Language Processing: EMNLP 2023 (EMNLP) - Dec 2023, Singapore, Singapore.
 
 <strong>Segwang Kim</strong>, Hyoungwook Nam, Joonyoung Kim, and Kyomin Jung, [Neural Sequence-to-grid Module for Learning Symbolic Rules](https://ojs.aaai.org/index.php/AAAI/article/view/16994), AAAI Conference on Artificial Intelligence (AAAI) - Feb 2021, A Virtual Conference [[code](https://github.com/SegwangKim/neural-seq2grid-module), [poster](https://segwangkim.github.io/pdfs/poster_AAAI21.pdf), [slides](https://www.slideshare.net/segwangkim/seq2grid-aaai-2021), [abridged slides](https://segwangkim.github.io/pdfs/abridged_slides_AAAI21.pdf)]
 
@@ -19,6 +19,8 @@ Hyoungwook Nam, <strong>Segwang Kim</strong>, Kyomin Jung, [Number Sequence Pred
 
 
 ### Journals
+Taegwan Kang, <strong>Segwang Kim</strong>, Hyeongu Yun, Hwanhee Lee, and Kyomin Jung, Gated Relational Encoder-Decoder Model for Target-Oriented Opinion Word Extraction, IEEE Access 2022.
+
 <strong>Segwang Kim</strong>, Joonyoung Kim, and Kyomin Jung, [Compositional Generalization via Parsing Tree Annotation](https://ieeexplore.ieee.org/document/9340248), IEEE ACCESS 2021 [[code](https://github.com/SegwangKim/annotation-of-targets-using-parsing-trees)]
 
 
