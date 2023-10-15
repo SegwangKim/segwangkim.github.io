@@ -9,9 +9,9 @@ Here are my [CV](https://segwangkim.github.io/CV/CV_segwangkim.pdf) and [Github]
 
 ## Publications
 ### Conference Proceedings
-Dongryeol Lee\*, <strong>Segwang Kim</strong>\*, Minwoo Lee, Hwanhee Lee, Joonsuk Park, and Kyomin Jung, Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP) - Dec 2023, Singapore, Singapore.
+Dongryeol Lee\*, <strong>Segwang Kim</strong>\*, Minwoo Lee, Hwanhee Lee, Joonsuk Park, and Kyomin Jung, Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP), Dec 2023, Singapore, Singapore.
 
-Kangil Lee, <strong>Segwang Kim</strong>, Weakly Supervised Semantic Parsing with Execution-based Spurious Program Filtering, The 2023 Conference on Empirical Methods in Natural Language Processing: EMNLP 2023 (EMNLP) - Dec 2023, Singapore, Singapore.
+Kangil Lee, <strong>Segwang Kim</strong>, Weakly Supervised Semantic Parsing with Execution-based Spurious Program Filtering, The 2023 Conference on Empirical Methods in Natural Language Processing: EMNLP 2023 (EMNLP), Dec 2023, Singapore, Singapore.
 
 <strong>Segwang Kim</strong>, Hyoungwook Nam, Joonyoung Kim, and Kyomin Jung, [Neural Sequence-to-grid Module for Learning Symbolic Rules](https://ojs.aaai.org/index.php/AAAI/article/view/16994), AAAI Conference on Artificial Intelligence (AAAI) - Feb 2021, A Virtual Conference [[code](https://github.com/SegwangKim/neural-seq2grid-module), [poster](https://segwangkim.github.io/pdfs/poster_AAAI21.pdf), [slides](https://www.slideshare.net/segwangkim/seq2grid-aaai-2021), [abridged slides](https://segwangkim.github.io/pdfs/abridged_slides_AAAI21.pdf)]
 
