@@ -15,7 +15,7 @@ Kangil Lee, <strong>Segwang Kim</strong>, and Kyomin Jung, Weakly Supervised Sem
 
 <strong>Segwang Kim</strong>, Hyoungwook Nam, Joonyoung Kim, and Kyomin Jung, [Neural Sequence-to-grid Module for Learning Symbolic Rules](https://ojs.aaai.org/index.php/AAAI/article/view/16994), AAAI Conference on Artificial Intelligence (AAAI) - Feb 2021, A Virtual Conference. [[code](https://github.com/SegwangKim/neural-seq2grid-module)], [[poster](https://segwangkim.github.io/pdfs/poster_AAAI21.pdf)], [[slides](https://www.slideshare.net/segwangkim/seq2grid-aaai-2021)], [[abridged slides](https://segwangkim.github.io/pdfs/abridged_slides_AAAI21.pdf)]
 
-Hyoungwook Nam, <strong>Segwang Kim</strong>, Kyomin Jung, [Number Sequence Prediction Problems for Evaluating Computational Powers of Neural Networks](https://ojs.aaai.org//index.php/AAAI/article/view/4387), AAAI Conference on Artificial Intelligence (AAAI) - (Oral), Jan 2019, Honolulu, Hawaii, USA. [[poster](https://segwangkim.github.io/pdfs/poster_AAAI19.pdf)], [[slides](https://segwangkim.github.io/pdfs/slides_AAAI19.pdf)]
+Hyoungwook Nam, <strong>Segwang Kim</strong>, and Kyomin Jung, [Number Sequence Prediction Problems for Evaluating Computational Powers of Neural Networks](https://ojs.aaai.org//index.php/AAAI/article/view/4387), AAAI Conference on Artificial Intelligence (AAAI) - (Oral), Jan 2019, Honolulu, Hawaii, USA. [[poster](https://segwangkim.github.io/pdfs/poster_AAAI19.pdf)], [[slides](https://segwangkim.github.io/pdfs/slides_AAAI19.pdf)]
 
 
 ### Journals
