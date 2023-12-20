@@ -9,9 +9,9 @@ Here are my [CV](https://segwangkim.github.io/CV/CV_segwangkim.pdf) and [Github]
 
 ## Publications
 ### Conference Proceedings
-Dongryeol Lee\*, <strong>Segwang Kim</strong>\*, Minwoo Lee, Hwanhee Lee, Joonsuk Park, and Kyomin Jung, Asking Clarification Questions to Handle Ambiguity in Open-Domain QA, Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP), Dec 2023, Singapore, Singapore.
+Dongryeol Lee\*, <strong>Segwang Kim</strong>\*, Minwoo Lee, Hwanhee Lee, Joonsuk Park, and Kyomin Jung, [Asking Clarification Questions to Handle Ambiguity in Open-Domain QA](https://aclanthology.org/2023.findings-emnlp.772/), Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP), Dec 2023, Singapore, Singapore. [[code](https://github.com/dongryeollee96/askcq)], [[poster](https://segwangkim.github.io/pdfs/poster_EMNLP23_findings.pdf)], [[slides](https://segwangkim.github.io/pdfs/slides_EMNLP23_findings.pdf)]
 
-Kangil Lee, <strong>Segwang Kim</strong>, and Kyomin Jung, Weakly Supervised Semantic Parsing with Execution-based Spurious Program Filtering, The 2023 Conference on Empirical Methods in Natural Language Processing: EMNLP 2023 (EMNLP), Dec 2023, Singapore, Singapore.
+Kangil Lee, <strong>Segwang Kim</strong>, and Kyomin Jung, [Weakly Supervised Semantic Parsing with Execution-based Spurious Program Filtering](https://aclanthology.org/2023.emnlp-main.425/), The 2023 Conference on Empirical Methods in Natural Language Processing: EMNLP 2023 (EMNLP), Dec 2023, Singapore, Singapore. [[poster](https://segwangkim.github.io/pdfs/poster_EMNLP23.pdf)], [[slides](https://segwangkim.github.io/pdfs/slides_EMNLP23.pdf)]
 
 <strong>Segwang Kim</strong>, Hyoungwook Nam, Joonyoung Kim, and Kyomin Jung, [Neural Sequence-to-grid Module for Learning Symbolic Rules](https://ojs.aaai.org/index.php/AAAI/article/view/16994), AAAI Conference on Artificial Intelligence (AAAI) - Feb 2021, A Virtual Conference. [[code](https://github.com/SegwangKim/neural-seq2grid-module)], [[poster](https://segwangkim.github.io/pdfs/poster_AAAI21.pdf)], [[slides](https://segwangkim.github.io/pdfs/slides_AAAI21.pdf)], [[abridged slides](https://segwangkim.github.io/pdfs/abridged_slides_AAAI21.pdf)]
 
