@@ -3,8 +3,10 @@ layout: default
 ---
 # Welcome to Segwang's Homepage!
 <center><img src="https://segwangkim.github.io/sgK_19.jpg" width="200" height="200"></center>
-I am a S/W engineer at Samsung MX Division (started in Sep 2022). My task is calibration for AR/VR devices. I have a Ph. D degree and the title of my dissertation is [**Improving Rule-based Out-of-distribution Generalization of Sequence Generation Models**](https://s-space.snu.ac.kr/bitstream/10371/187731/1/000000172085.pdf).  
-You can contact me through e-mail (ksk5693@snu.ac.kr) or [LinkedIn](https://www.linkedin.com/in/segwang-kim-9620a2149/).  
+I am a Software Engineer at Samsung MX Division, specializing in calibration for AR/VR devices since September 2022. My expertise in mathematical programming includes analyzing math libraries, documenting algorithms in LaTeX, and implementing unit tests to ensure code reliability and efficieny. I hold a Ph.D., with my dissertation titled  [**Improving Rule-based Out-of-distribution Generalization of Sequence Generation Models**](https://s-space.snu.ac.kr/bitstream/10371/187731/1/000000172085.pdf).
+
+Feel free to reach out via email at ksk5693@snu.ac.kr or connect with me on [LinkedIn](https://www.linkedin.com/in/segwang-kim-9620a2149/). 
+
 Here are my [CV](https://segwangkim.github.io/CV/CV_segwangkim.pdf) and [Github](https://github.com/SegwangKim).  
 
 ## Publications
