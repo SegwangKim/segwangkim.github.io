@@ -28,7 +28,7 @@ Taegwan Kang, <strong>Segwang Kim</strong>, Hyeongu Yun, Hwanhee Lee, and Kyomin
 
 ## Education
 PhD, Department of Electrical and Computer Engineering, Seoul National University
-<div style="text-align: right">Advisor: <a href="http://milab.snu.ac.kr/kjung/index.html">Kyomin Jung</a>, Mar 2016 - Fall 2022</div>
+<div style="text-align: right">Advisor: <a href="http://milab.snu.ac.kr/kjung/index.html">Kyomin Jung</a>, Mar 2016 - Aug 2022</div>
 BA, College of Liberal Studies (major: mathematics), Seoul National University
 <div style="text-align: right">Mar 2012 - Feb 2016</div>
 
